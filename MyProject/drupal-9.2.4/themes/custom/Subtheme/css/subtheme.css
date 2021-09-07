@@ -1,0 +1,10 @@
+body{
+	font-family : "Times New Roman", Times, serif;
+	background-color : #f8faf2
+	
+	}
+
+views-col{
+	 border: 2px solid red;
+     border-radius: 5px;
+}

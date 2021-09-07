@@ -1,0 +1,7 @@
+mycustom.mypage:
+ path: "mypage"
+ defaults: 
+  _controller: '\Drupal\mycustom\Controller\MyPageController::myPage'
+  _title: 'Title of your page'
+ requirements:
+  _permission: 'access content'

@@ -1,0 +1,11 @@
+{
+    "name": "yashkumarve/test",
+    "description": "this is composer",
+    "authors": [
+        {
+            "name": "Yashkumar",
+            "email": "yashkumarve@cybage.com"
+        }
+    ],
+    "require": {}
+}

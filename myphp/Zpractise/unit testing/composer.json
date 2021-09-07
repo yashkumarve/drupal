@@ -1,0 +1,16 @@
+{
+    "name": "yashkumarve/unit_testing",
+    "description": "this ia unit testing",
+    "authors": [
+        {
+            "name": "Yashkumar",
+            "email": "yashkumarve@cybage.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "9"
+    },
+    "require": {
+        "nategood/httpful": "^0.3.2"
+    }
+}

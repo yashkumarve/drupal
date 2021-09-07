@@ -1,0 +1,18 @@
+type: theme
+base theme: false
+core: 8.x
+core_version_requirement: ^8 || ^9
+
+name: 'My Great Theme'
+description: 'this is my custom theme'
+screenshot: mytheme.png
+
+regions:
+    header: Header
+    mythememenu: Navigation
+    content: Content
+    mytheme_content: Mytheme Content
+    sidebar_first: Sidebar First
+    footer: Footer
+    page_top: Page Top
+    

@@ -1,0 +1,11 @@
+global-styling:
+  css:
+    theme:
+      css/subtheme.css: {}
+      https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css: { type: external, minified: true }
+  js:
+    js/subtheme.js: {}
+    https://ajax.googleapis.com/ajax/libs/angularjs/1.4.4/angular.min.js: { type: external, minified: true }
+  dependencies:
+    - core/jquery
+
